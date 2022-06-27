@@ -1,0 +1,25 @@
+nav ul {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+    background-color: lightseagreen;
+    height: 35px;
+    align-items: center;
+    margin: 0 -10px;
+    padding-right: 50px;
+}
+
+nav li {
+    list-style-type: none;
+    width: 60px;
+    border-style: solid;
+    color: white;
+    border-color: rgba(73, 73, 212, 0.459);
+/*     margin: 0 50px; */
+    background-color: rgb(147, 97, 194);
+    border-radius: 2px;
+}
+
+.four {
+    margin-left: auto;
+}
